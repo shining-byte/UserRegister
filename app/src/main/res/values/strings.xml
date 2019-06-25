@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">云便签</string>
+    <string name="title_activity_my_adapter">MyAdapter</string>
+    <string name="title_activity_add_content">AddContent</string>
+</resources>
